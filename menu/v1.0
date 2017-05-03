@@ -11,11 +11,16 @@
 </dir>
 
 <dir>
-<name>The Wiggles Songs (video's)</name>
+<name>The Wiggles Songs (video's) New/original</name>
 <link>https://github.com/tdbnz123/The-wiggles/raw/master/files/wiggles%20songs/mneu</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/wiggles/images/7/7c/YummyYummyAlbum.jpg/revision/latest?cb=20120810173217</thumbnail>
 </dir>
 
+<dir>
+<name>The Wiggles nursery rhymes</name>
+<link>https://github.com/tdbnz123/The-wiggles/raw/master/files/nursery%20rhymes</link>
+<thumbnailhttps://dti2b9sshqmb0.cloudfront.net/assets/products/373518/large/373518.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>The Taiwanese wiggles</name>
@@ -41,7 +46,7 @@
 
 
 <dir>
-<name>The Wiggles Documentary's</name>
+<name>The Wiggles Documentary's/Interviews</name>
 <link>https://github.com/tdbnz123/The-wiggles/raw/master/files/docs/menu</link>
 <thumbnail>https://lh3.googleusercontent.com/aKY6-i2tA3gvgR28KOYrRYnfJHKF0ylAmKQoLctWiEjFHO5G4mMUBq32B3B6hdh_ItAE=w300</thumbnail>
 </dir>
